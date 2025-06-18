@@ -1,13 +1,13 @@
 n98-lf-novel-saveu-ncdn.fqnovelstatic.com
 p[0-9].*.-novel1-sign.byteimg.com
-p[0-9].*.-novel-sign.byteimg.com
+p-novel-sign.byteimg.com
 security.snssdk.com
-api[0-9].*.-normal-sinfonlinec.fqnovel.com
+api5-normal-sinfonlinec.fqnovel.com
 lf-normal-gr-sourcecdn.bytegecko.com
 reading.snssdk.com
 lf-fe.fqnovelstatic.com
-api[0-9].*.-sinfnormal.fqnovel.com
-tnc[0-9].*.zijieapi.com
+api5-sinfnormal.fqnovel.com
+tnc3.zijieapi.com
 p[0-9].*.-reading-sign.fqnovelpic.com
 api[0-9].*.-normal-sinfonlinec.fqnovel.com
 api-normal-sinfonline[0-9].*.fqnovel.com
